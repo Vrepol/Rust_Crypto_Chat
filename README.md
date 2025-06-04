@@ -11,7 +11,7 @@
 只需要稍微改一下`initialization.rs`可以为好友们提供懒人启动方式。
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/xxx/demo_chat.gif" width="600" alt="Demo GIF"/>
+  <img src="https://github.com/Vrepol/Rust_Crypto_Chat/blob/main/demo.gif" width="600" alt="Demo GIF"/>
 </div>
 
 ---
