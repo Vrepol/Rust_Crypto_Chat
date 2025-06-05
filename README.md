@@ -70,13 +70,13 @@ $ cargo build --release
 ### 3. 运行服务器
 
 ```bash
-./server --port 6655 --password 'Password'
+./server --port 6655 -k 'Password'
 ```
 
 | 参数           | 作用              | 默认       |
 | ------------ | --------------- | -------- |
 | `--port`     | 监听端口            | `6655`   |
-| `--password` | 服务器主密码（同时作为根密钥） | `Vrepol` |
+| `-k` | 服务器主密码（同时作为根密钥） | `Vrepol` |
 
 
 ### 4. 运行客户端
